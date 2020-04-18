@@ -1,0 +1,3 @@
+# Makefile
+test:
+	@go test -cover ./...
